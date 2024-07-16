@@ -1,0 +1,91 @@
+[
+  {
+    "category": "FRONT END",
+    "url": "frontend",
+    "description": "Eu to aqui pra nesse vídeo dizer que a gente vai aprender a começar uma app inspirada no desenho Pokémon com Nextjs e React, ver algumas dicas sobre performance e de quebra conhecer uma plataforma sensacional pra fazer deploy que é a Vercel. Tudo em 22 minutos nesse vídeo feito com todo o carinho do mundo construindo uma Pokedex!",
+    "color": "#6BD1FF",
+    "videos": [
+      {
+        "id": "c8mVlakBESE",
+        "title": "Como fazer SEO com React, NextJS e Deploy estático feat. Dicas de Performance | Pokedex",
+        "description": "Eu to aqui pra nesse vídeo dizer que a gente vai aprender a começar uma app inspirada no desenho Pokémon com Nextjs e React, ver algumas dicas sobre performance e de quebra conhecer uma plataforma sensacional pra fazer deploy que é a Vercel. Tudo em 22 minutos nesse vídeo feito com todo o carinho do mundo construindo uma Pokedex!😍 bora ver?"
+      },
+      {
+        "id": "ZY3-MFxVdEw",
+        "title": "O que faz uma desenvolvedora front-end?",
+        "description": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio!"
+      },
+      {
+        "id": "NpJVZtgSY4U",
+        "title": "ÁRVORES na Computação I Estrutura de Dados",
+        "description": "Neste vídeo, começamos o estudo das árvores!!! Árvores são EXTREMAMENTE úteis na computação. Sério, é o tipo de conteúdo que vai mudar a sua vida, mas você tem que perseverar, pois há vários conceitos envolvidos e, por isso, dividi o assunto em alguns vídeos."
+      },
+      {
+        "id": "FJhMCi07T4A",
+        "title": "O que é e o que faz quem trabalha com UX? User Experience e Usabilidade",
+        "description": "Chegou o episódio com a musa brasileira de UX, a Carla de Bona! Entenda a Experiência do Usuário e porque ela é importante para qualquer negócio, seja de produtos ou serviços."
+      },
+      {
+        "id": "fpth65ts3cw",
+        "title": "Guia de carreira Front-end",
+        "description": "Nesse primeiro episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado. São 3 níveis de Profundidade e 1 nível de Expansão, formando seu perfil como Dev Front-End em T."
+      }
+    ]
+  },
+  {
+    "category": "BACK END",
+    "url": "backend",
+    "description": "Como se tornar um desenvolvedor BACKEND?",
+    "color": "#00C86F",
+    "videos": [
+      {
+        "id": "wXMlMsDvk2M",
+        "title": "Como se tornar um desenvolvedor BACKEND? (Passo a passo / Roadmap)",
+        "description": "Recentemente fiz um video passo a passo sobre como se tornar um desenvolvedor Frontend e atendendo a pedidos, volto aqui com um passo a passo, um RoadMap de tudo que você precisa saber para se tornar um desenvolvedor Backend. Afinal é um profissional com alta demanda de mercado, esta entre os maiores salários e também dispõe de muitas possibilidades para se especializar. Como trabalhar com Backend te permite escolher e atuar com diversas tecnologias, talvez muitas pessoas se percam justamente nesse ponto. Então a ideia do video é dar uma clareada nesse caminho para que você consiga trilha-lo. Bora lá?"
+      },
+      {
+        "id": "BAmvmaKQklQ",
+        "title": "Git e Github para Sobrevivência #01: Como o Git funciona?",
+        "description": "Esse é o primeiro episódio da websérie Git e Github para Sobrevivência com o nosso instrutor Mario Souto, o @DevSoutinho . Nesse episódio, vamos descobrir como o Git funciona. Vem com a gente!"
+      },
+      {
+        "id": "Uh-GNH-t89w",
+        "title": "Qual é a melhor linguagem de programação?",
+        "description": "PHP, JavaScript, Python, Java e outras... qual é a melhor? Como surgiram essas linguagens e quais as aplicações e usos de cada uma na aprendizagem e para o mercado? Descubra nesta conversa da Roberta Arcoverde e do Paulo Silveira."
+      },
+      {
+        "id": "fiPfvylj6rk",
+        "title": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+        "description": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira?"
+      }
+    ]
+  },
+  {
+    "category": "MOBILE",
+    "url": "mobile",
+    "description": "Tudo sobre o desenvolvimento mobile.",
+    "color": "#FFBA05",
+    "videos": [
+      {
+        "id": "fWscDFHKgw8",
+        "title": "Desenvolvimento Android",
+        "description": "Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais ferramentas do desenvolvimento mobile, como colocar sua aplicação no ar e mais!"
+      },
+      {
+        "id": "So5C-XSfGW0",
+        "title": "O que é Flutter?",
+        "description": "O que é Flutter? Quais ferramentas usar para começar a desenvolver seu aplicativo mobile pra Android ou iOS? Como desenvolver ao mesmo tempo para diferentes plataformas? Como fica o UX do app no desenvolvimento multiplataforma? O Paulo Silveira e o Alex Felipe conversaram sobre Flutter e desenvolvimento Mobile e contam pra gente."
+      },
+      {
+        "id": "vf9P_PycgRw",
+        "title": "Híbridos: Flutter e React Native | Desmistificando Mobile",
+        "description": "Depois de entender sobre as linguagens de programação nativas, Helô vai conversar com a Natalia Thiel e o Caio Couto sobre Flutter e React Native, que são linguagens híbridas e que possibilitam outros caminhos para os aplicativos de celular"
+      },
+      {
+        "id": "6fe3DYGpCzs",
+        "title": "React vs Flutter Web, qual opção utilizar nos seus projetos? Flutter é mais pesado?",
+        "description": "Como escolher uma tecnologia de Front? É pq ela faz um carrossel melhor? Pq ela roda a 60fps? Será que tem algum critério que faz sentido? Hoje eu vim trazer um conteúdo falando de algo mais objetivo como RAM e como você pode olhar isso ai mesmo no seu browser!"
+      }
+    ]
+  }
+]
